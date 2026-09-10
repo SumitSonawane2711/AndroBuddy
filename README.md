@@ -35,9 +35,9 @@ If the app's shared state grows significantly (more domains beyond the cart, mor
 
 ### Home Page
 
-![Home Page](./screenshots/home.png)
+![Home Page](./src/screenshots/home.png)
 
 ### Cart Open
 
-![Cart Open](./screenshots/cart-open.png)
+![Cart Open](./src/screenshots/cart-open.png)
 
